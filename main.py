@@ -4,7 +4,7 @@ from resta import *
 from sumar import *
 from suma_avanzada import *
 
-# Menú de opciones de la calculadora
+# Menú de opciones de la calculadora.
 while True:
     print("===================================")
     print("\nCalculadora OS")
